@@ -90,5 +90,6 @@
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedRefky&layout=compact&theme=tokyonight&langs_count=6" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api?username=MohamedRefky&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="50%" />
+   <img src="https://github-profile-trophy.vercel.app/?username=MohamedRefky&theme=tokyonight&column=4&margin-w=15" />
  
 </p>
