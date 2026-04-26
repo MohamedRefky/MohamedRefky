@@ -60,12 +60,6 @@
       <td>Flutter, REST API, Bloc</td>
     </tr>
  
-    <tr>
-      <td><a href="https://github.com/MohamedRefky/News-App"><b>News App</b></a></td>
-      <td>Responsive News Application</td>
-      <td>Flutter, Bloc, Dio, Hive</td>
-    </tr>
- 
   </tbody>
 </table>
 
@@ -73,13 +67,11 @@
 
 <h3><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> About Me</h3>
 
-> 📱 **Flutter Developer** — Crafting seamless, scalable mobile experiences with Flutter & Dart
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=2000&color=AAAAAA&center=true&vCenter=true&multiline=true&width=700&height=120&lines=%F0%9F%93%B1+Flutter+Developer+%E2%80%94+Crafting+seamless%2C+scalable+mobile+experiences;%F0%9F%94%A5+Coding+Instructor+%40+iSchool+%E2%80%94+Shaping+the+next+generation;%E2%9A%A1+Always+Learning+%E2%80%94+Clean+Architecture+%26+modern+UI+patterns;%F0%9F%8E%93+B.Sc.+Computer+Science+%E2%80%94+Benha+University+2020%E2%80%932024" />
+</p>
 
-> 🔥 **Coding Instructor @ iSchool** — Shaping the next generation of software engineers
 
-> ⚡ **Always Learning** — Clean Architecture, state management, and modern UI patterns
-
-> 🎓 **B.Sc. Computer Science** — Benha University (2020–2024)
 
 ---
 
