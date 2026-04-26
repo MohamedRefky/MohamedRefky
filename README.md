@@ -49,16 +49,17 @@
       <td>Fitness & Health Application</td>
       <td>Flutter, Firebase, Python, Flask, ML</td>
     </tr>
+       <tr>
+      <td><a href="https://github.com/MohamedRefky/movies_app"><b>Movies App</b></a></td>
+      <td>API Integration & Dynamic UI</td>
+      <td>Flutter, Bloc, Dio, Clean Architecture</td>
+    </tr>
     <tr>
       <td><a href="https://github.com/MohamedRefky/Style-Haven"><b>Style Haven</b></a></td>
       <td>E-Commerce App</td>
       <td>Flutter, REST API, Bloc</td>
     </tr>
-    <tr>
-      <td><a href="https://github.com/MohamedRefky/movies_app"><b>Movies App</b></a></td>
-      <td>API Integration & Dynamic UI</td>
-      <td>Flutter, Bloc, Dio, Clean Architecture</td>
-    </tr>
+ 
     <tr>
       <td><a href="https://github.com/MohamedRefky/News-App"><b>News App</b></a></td>
       <td>Responsive News Application</td>
