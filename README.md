@@ -36,6 +36,11 @@
       <td>Educational Platform</td>
       <td>Flutter, Firebase, Clean Architecture</td>
     </tr>
+       <tr>
+      <td><a href="https://github.com/MohamedRefky/Diety_app"><b>Diety App</b></a></td>
+      <td>Fitness & Health Application</td>
+      <td>Flutter, Firebase, Python, Flask, ML</td>
+    </tr>
     <tr>
       <td><a href="https://github.com/MohamedRefky/Style-Haven"><b>Style Haven</b></a></td>
       <td>E-Commerce App</td>
@@ -51,11 +56,7 @@
       <td>Responsive News Application</td>
       <td>Flutter, Bloc, Dio, Hive</td>
     </tr>
-    <tr>
-      <td><a href="https://github.com/MohamedRefky/Diety_app"><b>Diety App</b></a></td>
-      <td>Fitness & Health Application</td>
-      <td>Flutter, Firebase, Python, Flask, ML</td>
-    </tr>
+ 
   </tbody>
 </table>
 
@@ -89,4 +90,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MohamedRefky&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedRefky&layout=compact&theme=tokyonight&langs_count=6" width="40%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedRefky&layout=compact&theme=tokyonight" width="40%" />
 </p>
