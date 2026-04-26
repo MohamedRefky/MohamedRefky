@@ -20,6 +20,12 @@
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img alt="Android Studio" src="https://img.shields.io/badge/-Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img alt="Bloc" src="https://img.shields.io/badge/-Bloc-5C6BC0?style=for-the-badge&logo=dart&logoColor=white" />
+  <img alt="Hive" src="https://img.shields.io/badge/-Hive-FF7A00?style=for-the-badge&logo=hive&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img alt="Dio" src="https://img.shields.io/badge/-Dio-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
 ---
@@ -54,6 +60,11 @@
       <td>E-Commerce App</td>
       <td>Flutter, REST API, Bloc</td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/MohamedRefky/News-App"><b>News App</b></a></td>
+      <td>Responsive News App</td>
+      <td>Flutter, Bloc, Dio, Hive</td>
+    </tr>
   </tbody>
 </table>
 
@@ -61,18 +72,20 @@
 
 <h3><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> About Me</h3>
 
-> 📱 **Flutter Developer** — Crafting seamless, scalable mobile experiences.
+> 📱 **Flutter Developer** — Crafting seamless, scalable mobile experiences with Flutter & Dart
 
-> 🔥 **Coding Instructor @ iSchool** — Shaping the next generation of engineers.
+> 🔥 **Coding Instructor @ iSchool** — Shaping the next generation of software engineers
 
-> 🎓 **B.Sc. Computer Science** — Benha University (2020–2024).
+> ⚡ **Always Learning** — Clean Architecture, state management, and modern UI patterns
+
+> 🎓 **B.Sc. Computer Science** — Benha University (2020–2024)
 
 ---
 
 <h3><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Where to find me</h3>
 <p>
-  <a href="https://github.com/MohamedRefky" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-  <a href="https://linkedin.com/in/mohamedrefky" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://github.com/MohamedRefky" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/mohamedrefky" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mohamedrifky9765@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
