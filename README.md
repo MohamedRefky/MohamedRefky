@@ -92,5 +92,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MohamedRefky&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="50%" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohamedRefky&theme=nord&column=4&margin-w=15" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedRefky&theme=tokyo-night&hide_border=true" width="90%" />
 </p>
