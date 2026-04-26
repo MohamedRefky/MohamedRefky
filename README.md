@@ -1,6 +1,8 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you. <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6495ED&center=true&vCenter=true&width=600&lines=Hey!+Nice+to+see+you+%F0%9F%91%8B;I'm+Mohamed+Refky;Flutter+Developer+%26+Coding+Instructor;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+</p>
 
 <p>Welcome to my page! </br> I'm <b>Mohamed Refky</b>, a Flutter Developer & Coding Instructor <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from <img src="https://cdn-icons-png.flaticon.com/512/197/197520.png" width="13"/> <b>Benha, Egypt</b>.</p>
 
