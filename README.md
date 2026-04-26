@@ -73,9 +73,9 @@
 
 <h3><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> About Me</h3>
 
-> 📱 **Flutter Developer** — Building clean, scalable, and high-quality cross-platform mobile applications
+> 📱 **Flutter Developer** — Crafting seamless, scalable mobile experiences with Flutter & Dart
 
-> 🔥 **Coding Instructor @ iSchool** — Mentoring and teaching the next generation of software engineers
+> 🔥 **Coding Instructor @ iSchool** — Shaping the next generation of software engineers
 
 > ⚡ **Always Learning** — Clean Architecture, state management, and modern UI patterns
 
