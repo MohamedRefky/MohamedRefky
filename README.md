@@ -72,12 +72,13 @@
 ---
 
 <h3><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> About Me</h3>
-<ul>
-  <li>🔥 <b>Coding Instructor @ iSchool</b><br/><i>Mentoring and teaching the next generation of software engineers.</i></li>
-  <li>📱 <b>Flutter Developer</b><br/><i>Building clean, scalable, and high-quality cross-platform mobile applications.</i></li>
-  <li>🎓 <b>B.Sc. Computer Science — Benha University (2020–2024)</b></li>
-  <li>⚡ <b>Always Learning</b><br/><i>Constantly exploring Clean Architecture, state management, and modern UI patterns.</i></li>
-</ul>
+
+| | |
+|---|---|
+| 🔥 | **Coding Instructor @ iSchool** — Mentoring and teaching the next generation of software engineers |
+| 📱 | **Flutter Developer** — Building clean, scalable, and high-quality cross-platform mobile applications |
+| 🎓 | **B.Sc. Computer Science** — Benha University (2020–2024) |
+| ⚡ | **Always Learning** — Clean Architecture, state management, and modern UI patterns |
 
 ---
 
