@@ -1,6 +1,8 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p>Welcome to my page! </br> I'm Mohamed Refky, a Mobile Application Developer & Coding Instructor from <img src="https://cdn-icons-png.flaticon.com/512/197/197520.png" width="13"/> <b>Minya, Egypt</b>. </p>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you. <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
+
+<p>Welcome to my page! </br> I'm Mohamed Refky, a Mobile Application Developer & Coding Instructor <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from <img src="https://cdn-icons-png.flaticon.com/512/197/197520.png" width="13"/> <b>Minya, Egypt</b>. </p>
 
 <h3>Things I code with</h3>
 <p>
@@ -39,7 +41,7 @@
   </tbody>
 </table>
 
-<h3>About Me</h3>
+<h3><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> About Me</h3>
 <ul>
   <li><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="fire" /> <b>Coding Instructor @ iSchool</b><br/><i>Mentoring and teaching the next generation of software engineers.</i></li>
   <li><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="fire" /> <b>Freelance Software Developer</b><br/><i>Building high-quality, cross-platform mobile solutions.</i></li>
@@ -52,7 +54,7 @@
   <i>"Every pixel tells a story, let's write the best ones through code."</i>
 </p>
 
-<h3>Where to find me</h3>
+<h3><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Where to find me</h3>
 <p>
   <a href="https://github.com/MohamedRefky" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
   <a href="https://linkedin.com/in/mohamed-refky-3714b7264/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
