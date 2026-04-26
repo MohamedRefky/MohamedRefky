@@ -73,13 +73,13 @@
 
 <h3><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> About Me</h3>
 
-> 🔥 **Coding Instructor @ iSchool** — Mentoring and teaching the next generation of software engineers
-
 > 📱 **Flutter Developer** — Building clean, scalable, and high-quality cross-platform mobile applications
 
-> 🎓 **B.Sc. Computer Science** — Benha University (2020–2024)
+> 🔥 **Coding Instructor @ iSchool** — Mentoring and teaching the next generation of software engineers
 
 > ⚡ **Always Learning** — Clean Architecture, state management, and modern UI patterns
+
+> 🎓 **B.Sc. Computer Science** — Benha University (2020–2024)
 
 ---
 
