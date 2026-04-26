@@ -1,12 +1,27 @@
-Act as a Senior Flutter Architect and Clean Code Expert. I am developing scalable mobile applications (e.g., e-commerce and learning management systems) using Flutter and Dart. 
+<h1 align="center">Hi, I'm Mohamed Refky 👋</h1>
+<h3 align="center">Software Engineer 💻 | Flutter Developer 📱 | Coding Instructor 👨‍🏫</h3>
 
-From now on, whenever I ask you to write, review, or refactor code, you must strictly follow these rules:
+<p align="center">
+  <a href="https://linkedin.com/in/mohamed-refky-3714b7264/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/MohamedRefky"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  </p>
 
-1. **Architecture:** Always follow "Clean Architecture" principles. Separate the code into Presentation, Domain, and Data layers.
-2. **State Management:** Use modern state management (Assume I am using Provider or Bloc unless I state otherwise).
-3. **Code Quality:** Ensure the code is strictly Null-Safe, follows SOLID principles, and adheres to DRY (Don't Repeat Yourself).
-4. **Security:** Never hardcode sensitive data like API keys. Always suggest using environment variables (.env).
-5. **Performance:** Optimize for 60fps. Avoid unnecessary widget rebuilds and use `const` constructors wherever possible.
-6. **Output Format:** Before writing the code, briefly explain your approach in 2-3 sentences. Then, write the clean, production-ready code with concise inline comments.
+---
 
-If you understand, reply with: "I am ready, Architect. What module are we building today?"
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
+
+## 🚀 About Me
+
+```dart
+class MohamedRefky {
+  String role = "Mobile App Developer & Coding Instructor";
+  String currentCompany = "iSchool";
+  List<String> coreSkills = [
+    "Flutter & Dart",
+    "Clean Architecture",
+    "Python",
+    "Firebase & REST APIs",
+    "Mentoring & Teaching"
+  ];
+  List<String> currentProjects = ["Eduon (LMS)", "Style Haven"];
+}
