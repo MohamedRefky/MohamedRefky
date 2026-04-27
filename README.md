@@ -96,7 +96,7 @@
   </a>
   &nbsp;
 <a href="https://wa.me/201019964918" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" width="48" />
+  <img src="https://img.icons8.com/3d-fluency/48/whatsapp.png" width="48" />
 </a>
 </p>
 
