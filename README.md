@@ -7,11 +7,13 @@
 <p>Welcome to my page! </br> I'm <b>Mohamed Refky</b>, a Flutter Developer & Coding Instructor <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from <img src="https://cdn-icons-png.flaticon.com/512/197/197520.png" width="13"/> <b>Benha, Egypt</b>.</p>
 
 ---
+
 <h3 align="left">🛠 Things I code with</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,sqlite,git,github,vscode,androidstudio,postman,figma,python,flask,gradle,gcp" />
   </a>
+</p>
 <p align="left">
   <img src="https://img.shields.io/badge/Bloc-5C6BC0?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=dart&logoColor=white" />
@@ -92,19 +94,38 @@
     <img src="https://img.icons8.com/color/48/gmail-new.png" width="48" />
   </a>
   &nbsp;
-<a href="https://wa.me/201019964918" target="_blank">
-  <img src="https://img.icons8.com/3d-fluency/48/whatsapp.png" width="48" />
-</a>
+  <a href="https://wa.me/201019964918" target="_blank">
+    <img src="https://img.icons8.com/3d-fluency/48/whatsapp.png" width="48" />
+  </a>
 </p>
 
 ---
 
+<!-- 🏆 GitHub Trophies -->
+<h3>🏆 GitHub Trophies</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MohamedRefky&theme=tokyonight&column=7&no-frame=true&margin-w=10" width="100%"/>
+</p>
+
+---
+
+<!-- 📊 GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MohamedRefky&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800&v=500" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedRefky&layout=compact&theme=tokyonight&langs_count=8&v=500" height="170" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedRefky&theme=tokyonight&v=500" height="170" />
-</p> 
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedRefky&theme=tokyo-night&hide_border=true&v=500" width="90%" />
 </p>
 
+---
+
+<!-- 🐍 Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MohamedRefky/MohamedRefky/output/snake.svg" alt="Snake animation" />
+</p>
