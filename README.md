@@ -15,9 +15,16 @@
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/-Bloc-5C6BC0?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Provider-02569B?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/-Dio-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Hive-FF7A00?style=for-the-badge&logo=hive&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTTP-005571?style=for-the-badge&logo=json&logoColor=white" />
   <img src="https://img.shields.io/badge/-REST_API-005571?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Hive-FF7A00?style=for-the-badge&logo=hive&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Shared_Preferences-FF7A00?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Clean_Architecture-6DB33F?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SOLID_Principles-764ABC?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Google_Cloud-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </p>
 
 ---
