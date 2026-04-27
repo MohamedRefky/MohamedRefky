@@ -13,15 +13,15 @@
     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,sqlite,git,github,vscode,androidstudio,postman,figma,python,flask,gradle,gcp" />
   </a>
 <p align="left">
-  <img src="https://img.shields.io/badge/-Bloc-5C6BC0?style=flat-square&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Provider-02569B?style=flat-square&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Dio-0175C2?style=flat-square&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTTP-005571?style=flat-square&logo=json&logoColor=white" />
-  <img src="https://img.shields.io/badge/-REST_API-005571?style=flat-square&logo=json&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Hive-FF7A00?style=flat-square&logo=hive&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Shared_Preferences-FF7A00?style=flat-square&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Clean_Architecture-6DB33F?style=flat-square&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SOLID_Principles-764ABC?style=flat-square&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bloc-5C6BC0?style=flat&logo=dart&logoColor=white&logoWidth=20" />
+  <img src="https://img.shields.io/badge/-Provider-02569B?style=flat&logo=dart&logoColor=white&logoWidth=20" />
+  <img src="https://img.shields.io/badge/-Dio-0175C2?style=flat&logo=dart&logoColor=white&logoWidth=20" />
+  <img src="https://img.shields.io/badge/-HTTP-005571?style=flat&logo=json&logoColor=white&logoWidth=20" />
+  <img src="https://img.shields.io/badge/-REST_API-005571?style=flat&logo=json&logoColor=white&logoWidth=20" />
+  <img src="https://img.shields.io/badge/-Hive-FF7A00?style=flat&logo=hive&logoColor=white&logoWidth=20" />
+  <img src="https://img.shields.io/badge/-Shared_Preferences-FF7A00?style=flat&logo=dart&logoColor=white&logoWidth=20" />
+  <img src="https://img.shields.io/badge/-Clean_Architecture-6DB33F?style=flat&logo=dart&logoColor=white&logoWidth=20" />
+  <img src="https://img.shields.io/badge/-SOLID_Principles-764ABC?style=flat&logo=dart&logoColor=white&logoWidth=20" />
 </p>
 
 ---
