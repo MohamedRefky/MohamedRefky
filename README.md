@@ -10,7 +10,7 @@
 <h3 align="left">🛠 Things I code with</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,sqlite,git,github,vscode,androidstudio,postman,figma,python,flask,gradle,gcp,linux" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,sqlite,git,github,vscode,androidstudio,postman,figma,python,flask,gradle,gcp" />
   </a>
 </p>
 <p align="left">
