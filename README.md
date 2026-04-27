@@ -7,25 +7,16 @@
 <p>Welcome to my page! </br> I'm <b>Mohamed Refky</b>, a Flutter Developer & Coding Instructor <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from <img src="https://cdn-icons-png.flaticon.com/512/197/197520.png" width="13"/> <b>Benha, Egypt</b>.</p>
 
 ---
-<h3 align="left">📱 Mobile Development:</h3>
+<h3 align="left">🛠 Things I code with</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,sqlite,git,github,vscode,androidstudio,postman,figma,python" />
   </a>
-</p>
-
-<h3 align="left">🔥 Backend & Database:</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,supabase,sqlite" />
-  </a>
-</p>
-
-<h3 align="left">🛠️ Tools & Design:</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,python" />
-  </a>
+  <br/>
+  <img src="https://img.shields.io/badge/-Bloc-5C6BC0?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Dio-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Hive-FF7A00?style=for-the-badge&logo=hive&logoColor=white" />
+  <img src="https://img.shields.io/badge/-REST_API-005571?style=for-the-badge&logo=json&logoColor=white" />
 </p>
 
 ---
