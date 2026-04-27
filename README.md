@@ -8,7 +8,36 @@
 
 ---
 
-<h3>🛠 Things I code with</h3>
+<h3 align="left">🚀 Tech Stack & Tools:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,supabase,sqlite,git,github,vscode,androidstudio,postman,figma,xd,canva,linux,python,java,cpp,kotlin" />
+  </a>
+</p>
+<h3 align="left">📱 Mobile Development:</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bloc-5C6BC0?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Dio-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+</p>
+
+<h3 align="left">🔥 Backend & Database:</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Hive-FF7A00?style=for-the-badge&logo=hive&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+<h3 align="left">🛠️ Tools & Design:</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+<!-- <h3>🛠 Things I code with</h3>
 <p>
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
@@ -26,7 +55,7 @@
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img alt="Dio" src="https://img.shields.io/badge/-Dio-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-</p>
+</p> -->
 
 ---
 
