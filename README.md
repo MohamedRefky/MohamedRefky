@@ -92,7 +92,11 @@
   </a>
   &nbsp;
   <a href="mailto:mohamedrifky9765@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="48" />
+  </a>
+  &nbsp;
+  <a href="https://wa.me/201019964918" target="_blank">
+    <img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="48" />
   </a>
 </p>
 
