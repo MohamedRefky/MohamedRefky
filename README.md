@@ -22,9 +22,7 @@
   <img src="https://img.shields.io/badge/-Hive-FF7A00?style=for-the-badge&logo=hive&logoColor=white" />
   <img src="https://img.shields.io/badge/-Shared_Preferences-FF7A00?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/-Clean_Architecture-6DB33F?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SOLID_Principles-764ABC?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Google_Cloud-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  
+  <img src="https://img.shields.io/badge/-SOLID_Principles-764ABC?style=for-the-badge&logo=dart&logoColor=white" />  
 </p>
 
 ---
@@ -47,7 +45,7 @@
     <tr>
       <td><a href="https://github.com/MohamedRefky/Diety_app"><b>Diety App</b></a></td>
       <td>Fitness & Health ML</td>
-      <td>Flutter, Fitness, Python, Flask</td>
+      <td>Flutter, Firebase, Python, Flask</td>
     </tr>
     <tr>
       <td><a href="https://github.com/MohamedRefky/movies_app"><b>Movies App</b></a></td>
