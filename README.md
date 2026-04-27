@@ -95,9 +95,9 @@
     <img src="https://img.icons8.com/color/48/gmail-new.png" width="48" />
   </a>
   &nbsp;
-  <a href="https://wa.me/201019964918" target="_blank">
-    <img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="48" />
-  </a>
+ <a href="https://wa.me/201019964918" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/whatsapp.png" width="48" />
+</a>
 </p>
 
 ---
