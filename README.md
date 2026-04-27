@@ -10,7 +10,7 @@
 <h3 align="left">🛠 Things I code with</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,sqlite,git,github,vscode,androidstudio,postman,figma,python" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,sqlite,git,github,vscode,androidstudio,postman,figma,python,flask,gradle,gcp,linux" />
   </a>
 </p>
 <p align="left">
@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/-Clean_Architecture-6DB33F?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/-SOLID_Principles-764ABC?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/-Google_Cloud-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  
 </p>
 
 ---
