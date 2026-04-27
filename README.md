@@ -48,12 +48,12 @@
     <tr>
       <td><a href="https://github.com/MohamedRefky/Diety_app"><b>Diety App</b></a></td>
       <td>Fitness & Health ML</td>
-      <td>Flutter, Python, Flask</td>
+      <td>Flutter, Fitness, Python, Flask</td>
     </tr>
     <tr>
       <td><a href="https://github.com/MohamedRefky/movies_app"><b>Movies App</b></a></td>
       <td>API Integration</td>
-      <td>Flutter, Bloc, Dio</td>
+      <td>Flutter, Bloc, Dio, Clean Arch</td>
     </tr>
     <tr>
       <td><a href="https://github.com/MohamedRefky/Style-Haven"><b>Style Haven</b></a></td>
