@@ -12,7 +12,8 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,sqlite,git,github,vscode,androidstudio,postman,figma,python" />
   </a>
-  <br/>
+</p>
+<p align="left">
   <img src="https://img.shields.io/badge/-Bloc-5C6BC0?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/-Dio-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/-Hive-FF7A00?style=for-the-badge&logo=hive&logoColor=white" />
