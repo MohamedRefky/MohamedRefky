@@ -100,17 +100,10 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedRefky&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="200" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedRefky&theme=tokyonight" height="200" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedRefky&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedRefky&theme=tokyonight" height="170" />
+</p> 
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedRefky&theme=tokyo-night&hide_border=true" width="90%" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MohamedRefky&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedRefky&theme=tokyo-night&hide_border=true" width="90%" />
