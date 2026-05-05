@@ -100,7 +100,7 @@
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MohamedRefky&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=MohamedRefky&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedRefky&theme=tokyonight&v=500" height="170" />
 </p> 
 
