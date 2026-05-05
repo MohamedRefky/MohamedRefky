@@ -100,7 +100,7 @@
 ---
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohamedRefky&theme=tokyonight" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohamedRefky&theme=tokyonight" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedRefky&theme=tokyonight&v=500" height="170" />
 </p> 
 
