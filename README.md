@@ -69,6 +69,11 @@
       <td>Flutter Web, Responsive Dark UI, Advanced Filtering</td>
     </tr>
     <tr>
+      <td><a href="https://github.com/MohamedRefky/NX-MEDIA"><b>NX Media</b></a></td>
+      <td>Video Editing Agency Website (Pricing & Order Flow)</td>
+      <td>Web, WhatsApp Order Integration</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/MohamedRefky/movies_app"><b>Movies App</b></a></td>
       <td>API Integration</td>
       <td>Flutter, Bloc, Dio, Clean Arch</td>
@@ -116,6 +121,11 @@
 **Eng. Islam Ahmed Office**
 - Responsive dark-themed website for courses, trainee bookings, and client contact channels.
 - Digital engineering library with dynamic filtering and a portfolio section with file downloads.
+
+**NX Media**
+- Business website for a professional video editing company serving YouTubers, creators, brands, and agencies.
+- Clear sections: about, how we work, portfolio, three pricing packages, FAQ, and contact.
+- Order form with a live estimated total that opens WhatsApp with the request already written.
 
 </details>
 
