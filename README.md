@@ -39,54 +39,63 @@
       <td><b>🎁 Project</b></td>
       <td><b>📱 Type</b></td>
       <td><b>🛠 Tech Stack</b></td>
+      <td><b>🔗 Links</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <!-- TODO: add the App Store / Google Play link on AROX -->
-      <td><b>AROX</b> ⭐</td>
+      <td><b>AROX ⭐</b></td>
       <td>On-Demand Services Marketplace (Client App, Craftsman App & Admin Dashboard)</td>
       <td>Flutter, Bloc/Cubit, Firebase (FCM), REST API, Google Maps, Clean Arch</td>
+      <td align="center"><a href="https://play.google.com/store/apps/details?id=com.qatfa.arox"><img src="https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=googleplay&logoColor=white" /></a><br><a href="https://apps.apple.com/us/app/arox/id6809708192"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" /></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MohamedRefky/Eduon"><b>Eduon (LMS App)</b></a></td>
+      <td><b>Eduon (LMS App)</b></td>
       <td>Educational Platform</td>
       <td>Flutter, Firebase, BLoC, YouTube API, FCM, WorkManager, Clean Arch</td>
+      <td align="center"><a href="https://github.com/MohamedRefky/Eduon"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MohamedRefky/Diety_app"><b>Diety App</b></a></td>
+      <td><b>Diety App</b></td>
       <td>Fitness & Health ML</td>
       <td>Flutter, Firebase, Python, Flask, 1D CNN</td>
+      <td align="center"><a href="https://github.com/MohamedRefky/Diety_app"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MohamedRefky/the_5th_real_estate"><b>The 5th Real Estate</b></a></td>
+      <td><b>The 5th Real Estate</b></td>
       <td>Property Listing & Admin Platform (Web)</td>
       <td>Flutter Web, Firebase (Auth, Firestore), Dynamic Forms, WhatsApp API</td>
+      <td align="center"><a href="https://the-5th-realestate-eg.pages.dev/"><img src="https://img.shields.io/badge/Live-Website-2EA44F?style=flat-square&logo=googlechrome&logoColor=white" /></a><br><a href="https://github.com/MohamedRefky/the_5th_real_estate"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MohamedRefky/Eng.Eslam_Ahmed"><b>Eng. Islam Ahmed Office</b></a></td>
+      <td><b>Eng. Islam Ahmed Office</b></td>
       <td>Engineering Services & Training Platform (Web)</td>
       <td>Flutter Web, Responsive Dark UI, Advanced Filtering</td>
+      <td align="center"><a href="https://eslam-ahmed.pages.dev/"><img src="https://img.shields.io/badge/Live-Website-2EA44F?style=flat-square&logo=googlechrome&logoColor=white" /></a><br><a href="https://github.com/MohamedRefky/Eng.Eslam_Ahmed"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MohamedRefky/NX-MEDIA"><b>NX Media</b></a></td>
+      <td><b>NX Media</b></td>
       <td>Video Editing Agency Website (Pricing & Order Flow)</td>
       <td>Web, WhatsApp Order Integration</td>
+      <td align="center"><a href="https://nx-media.pages.dev/"><img src="https://img.shields.io/badge/Live-Website-2EA44F?style=flat-square&logo=googlechrome&logoColor=white" /></a><br><a href="https://github.com/MohamedRefky/NX-MEDIA"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MohamedRefky/movies_app"><b>Movies App</b></a></td>
+      <td><b>Movies App</b></td>
       <td>API Integration</td>
       <td>Flutter, Bloc, Dio, Clean Arch</td>
+      <td align="center"><a href="https://github.com/MohamedRefky/movies_app"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MohamedRefky/Style-Haven"><b>Style Haven</b></a></td>
+      <td><b>Style Haven</b></td>
       <td>E-Commerce App</td>
       <td>Flutter, REST API, Bloc</td>
+      <td align="center"><a href="https://github.com/MohamedRefky/Style-Haven"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MohamedRefky/News-App"><b>News App</b></a></td>
+      <td><b>News App</b></td>
       <td>Responsive News App</td>
       <td>Flutter, Bloc, Dio, Hive</td>
+      <td align="center"><a href="https://github.com/MohamedRefky/News-App"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a></td>
     </tr>
   </tbody>
 </table>
