@@ -1,61 +1,109 @@
-Mohamed Refky
-Flutter Developer
-Cairo, Egypt | mohamedrifky9765@gmail.com | +201019964918 |  GitHub
-Portfolio | LinkedIn : https://www.linkedin.com/in/mohamedrefky/
-Summary
+<img align='right' src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="230">
 
-Results-oriented Flutter Developer with 2+ year of experience delivering 6+ production apps, including the AROX marketplace. Skilled in Clean Architecture, SOLID, Bloc/Cubit, Firebase, and REST APIs.
-Technical Skills
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey!+Nice+to+see+you+%F0%9F%91%8B;I'm+Mohamed+Refky;Flutter+Developer;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+</p>
 
-•	Mobile & Web Development: Flutter, Dart, Flutter Web, Responsive UI Design
-•	Architecture & Principles: Clean Architecture, SOLID Principles, OOP, Clean Code, Design Patterns
-•	State Management: Bloc, Cubit, Provider
-•	Networking & APIs: REST API, Dio, HTTP
-•	Backend & Database: Firebase (Auth, Firestore, Storage), Hive, Shared Preferences, SQL
-•	Tools & Technologies: Git, GitHub, VS Code, Android Studio, Google Cloud Platform
-•	Soft Skills: Problem-Solving, Team Collaboration, Attention to Detail, Fast Learner, Communication
-Work Experience
+<p>Welcome to my page! </br> I'm <b>Mohamed Refky</b>, a Flutter Developer & Coding Instructor <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from <img src="https://cdn-icons-png.flaticon.com/512/197/197520.png" width="13"/> <b>Benha, Egypt</b>.</p>
 
- Freelance — Remote — Mobile Application Developer | April 2026 – Present
-•	Delivered 5+ production-ready mobile and web applications end-to-end, including AROX — a full-scale service-marketplace platform published on Google Play and the App Store. 
-•	Built Eduon LMS and two business web platforms (The 5th Real Estate, Eng. Islam Ahmed Office) as an independent freelance contractor.
- iSchool — Hybrid —  Coding Instructor & Mentor | April 2026 – Present
-•	Instructed 400+ students in programming fundamentals through structured online and offline sessions, selected via a competitive technical evaluation.
-Projects
+---
+<h3 align="left">🛠 Things I code with</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,sqlite,git,github,vscode,androidstudio,postman,figma,python,flask,gradle,gcp" />
+  </a>
+<p align="left">
+  <img src="https://img.shields.io/badge/Bloc-5C6BC0?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dio-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTTP-005571?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST API-005571?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hive-FF7A00?style=for-the-badge&logo=hive&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shared Prefs-FF7A00?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean Arch-6DB33F?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOLID-764ABC?style=for-the-badge&logo=dart&logoColor=white" />
+</p>
 
-AROX — On-Demand Services Marketplace (Client, Craftsman & Admin Dashboard)    	App Store & Google Play 
-• Developed a full-scale marketplace ecosystem comprising 2 cross-platform apps and a comprehensive Admin    Dashboard.
-• Integrated interactive Google Maps allowing users to locate nearby craftsmen and available tasks in real-time.
-• Connected the frontend to a robust REST API backend hosted on Hostinger, and implemented Firebase Cloud Messaging (FCM) for real-time push notifications.
-• Engineered complex business flows including open-bidding, real-time chat, subscription/commission billing, and dispute-resolution.
-• Technologies: Flutter, Dart, Bloc/Cubit, Firebase (FCM), REST API, Google Maps, Clean Architecture.
-Diety App — Fitness & Health Mobile Application	GitHub Link
-• Developed cross-platform Flutter app generating personalized fitness and diet plans; validated by over 50+ users.
-• Built and trained a 1D CNN model in Python, deployed via Flask API and integrated with the Flutter app for personalized plan generation using 100+ training samples.
-• Implemented 4+ core features including workout, meal planning, progress tracking, and meditation.
-• Technologies: Flutter, Dart, Firebase, Python, Flask, Machine Learning.
-Eduon — Educational Platform (LMS APP) 	   GitHub Link 
-• Developed a cross-platform LMS app providing structured learning paths and roadmaps.
-• Integrated YouTube API for in-app video streaming with real-time progress tracking.
-• Engineered FCM & WorkManager background notifications with secure Firebase Auth.
-• Built a community hub integrating 8+ tech orgs (IEEE, GDG) to boost user engagement.
-• Technologies: Flutter, Dart, Firebase, BLoC, YouTube API, FCM, WorkManager.
+---
 
-The 5th Real Estate — Property Listing & Admin Platform                                                                                  Website Link
-• Built a responsive real-estate web platform with a secure admin dashboard for real-time property management (add, edit, hide, delete).
-• Connected the platform to Firebase for real-time data sync, dynamic property forms, and bulk JSON data upload.
-• Integrated advanced search & filtering and direct WhatsApp booking to boost lead conversion.
-• Technologies: Flutter Web, Firebase (Auth, Firestore), Dynamic Forms, WhatsApp API.
-Eng. Islam Ahmed Office — Engineering Services & Training Platform                                                          Website Link
-• Developed a responsive, dark-themed website for an engineering office to showcase courses, simplify trainee bookings, and centralize client contact channels (WhatsApp, LinkedIn, Instagram, Email).
-• Built a digital engineering library with dynamic filtering, plus an interactive portfolio section with file-download capability.
-• Technologies: Flutter Web, Responsive Dark UI, Advanced Filtering.
-Education
+<h3>🚀 Projects</h3>
+<table>
+  <thead align="center">
+    <tr>
+      <td><b>🎁 Project</b></td>
+      <td><b>📱 Type</b></td>
+      <td><b>🛠 Tech Stack</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/MohamedRefky/Eduon"><b>Eduon (LMS App)</b></a></td>
+      <td>Educational Platform</td>
+      <td>Flutter, Firebase, Clean Arch</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/MohamedRefky/Diety_app"><b>Diety App</b></a></td>
+      <td>Fitness & Health ML</td>
+      <td>Flutter, Firebase, Python, Flask</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/MohamedRefky/movies_app"><b>Movies App</b></a></td>
+      <td>API Integration</td>
+      <td>Flutter, Bloc, Dio, Clean Arch</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/MohamedRefky/Style-Haven"><b>Style Haven</b></a></td>
+      <td>E-Commerce App</td>
+      <td>Flutter, REST API, Bloc</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/MohamedRefky/News-App"><b>News App</b></a></td>
+      <td>Responsive News App</td>
+      <td>Flutter, Bloc, Dio, Hive</td>
+    </tr>
+  </tbody>
+</table>
 
-Bachelor of Science in Computer Science                                                                                                                 
-Faculty of Computers and Artificial Intelligence, Benha University - Benha, Egypt                                             2020 - 2024 
-Graduation Project Grade: A+
-Professional Development
+---
 
-  •  Flutter Master Course, Clean Architecture & SOLID, Git & GitHub, Dart & OOP — Usama Elgendy
-  •  Flutter & Dart Development Diploma (2024) — EraaSoft
+<h3><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> About Me</h3>
+
+> 📱 **Flutter Developer** — Crafting seamless, scalable mobile experiences with Flutter & Dart
+
+> 🔥 **Coding Instructor @ iSchool** — Shaping the next generation of software engineers
+
+> ⚡ **Always Learning** — Clean Architecture, state management, and modern UI patterns
+
+> 🎓 **B.Sc. Computer Science** — Benha University (2020–2024)
+
+---
+
+<h3><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Where to find me</h3>
+<p align="left">
+  <a href="https://github.com/MohamedRefky" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/mohamedrefky" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;
+  <a href="mailto:mohamedrifky9765@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="48" />
+  </a>
+  &nbsp;
+<a href="https://wa.me/201019964918" target="_blank">
+  <img src="https://img.icons8.com/3d-fluency/48/whatsapp.png" width="48" />
+</a>
+</p>
+
+---
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohamedRefky&theme=tokyonight" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedRefky&theme=tokyonight&v=500" height="170" />
+</p> 
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedRefky&theme=tokyo-night&hide_border=true&v=500" width="90%" />
+</p>
