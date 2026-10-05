@@ -6,7 +6,7 @@
 
 <p>Welcome to my page! </br> I'm <b>Mohamed Refky</b>, a Flutter Developer & Coding Instructor <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from <img src="https://cdn-icons-png.flaticon.com/512/197/197520.png" width="13"/> <b>Egypt</b>.</p>
 
-<p>Results-oriented Flutter Developer with <b>2+ years</b> of experience delivering <b>6+ production apps</b>, including the <b>AROX</b> marketplace published on Google Play and the App Store. I focus on Clean Architecture, SOLID, Bloc/Cubit, Firebase, and REST APIs.</p>
+<p>Results-oriented Flutter Developer with <b>2+ years</b> of experience delivering <b>9+ production apps</b>, including the <b>AROX</b> marketplace published on Google Play and the App Store. I focus on Clean Architecture, SOLID, Bloc/Cubit, Firebase, and REST APIs.</p>
 
 ---
 <h3 align="left">🛠 Things I code with</h3>
