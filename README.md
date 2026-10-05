@@ -4,7 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey!+Nice+to+see+you+%F0%9F%91%8B;I'm+Mohamed+Refky;Flutter+Developer;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
 
-<p>Welcome to my page! </br> I'm <b>Mohamed Refky</b>, a Flutter Developer & Coding Instructor <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from <img src="https://cdn-icons-png.flaticon.com/512/197/197520.png" width="13"/> <b>Benha, Egypt</b>.</p>
+<p>Welcome to my page! </br> I'm <b>Mohamed Refky</b>, a Flutter Developer & Coding Instructor <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from <img src="https://cdn-icons-png.flaticon.com/512/197/197520.png" width="13"/> <b>Egypt</b>.</p>
+
+<p>Results-oriented Flutter Developer with <b>2+ years</b> of experience delivering <b>6+ production apps</b>, including the <b>AROX</b> marketplace published on Google Play and the App Store. I focus on Clean Architecture, SOLID, Bloc/Cubit, Firebase, and REST APIs.</p>
 
 ---
 <h3 align="left">🛠 Things I code with</h3>
@@ -14,12 +16,16 @@
   </a>
 <p align="left">
   <img src="https://img.shields.io/badge/Bloc-5C6BC0?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cubit-5C6BC0?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Dio-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/HTTP-005571?style=for-the-badge&logo=json&logoColor=white" />
   <img src="https://img.shields.io/badge/REST API-005571?style=for-the-badge&logo=json&logoColor=white" />
   <img src="https://img.shields.io/badge/Hive-FF7A00?style=for-the-badge&logo=hive&logoColor=white" />
   <img src="https://img.shields.io/badge/Shared Prefs-FF7A00?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Google Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter Web-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Clean Arch-6DB33F?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/SOLID-764ABC?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
@@ -37,14 +43,32 @@
   </thead>
   <tbody>
     <tr>
+      <!-- TODO: add the App Store / Google Play link on AROX -->
+      <td><b>AROX</b> ⭐</td>
+      <td>On-Demand Services Marketplace (Client App, Craftsman App & Admin Dashboard)</td>
+      <td>Flutter, Bloc/Cubit, Firebase (FCM), REST API, Google Maps, Clean Arch</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/MohamedRefky/Eduon"><b>Eduon (LMS App)</b></a></td>
       <td>Educational Platform</td>
-      <td>Flutter, Firebase, Clean Arch</td>
+      <td>Flutter, Firebase, BLoC, YouTube API, FCM, WorkManager, Clean Arch</td>
     </tr>
     <tr>
       <td><a href="https://github.com/MohamedRefky/Diety_app"><b>Diety App</b></a></td>
       <td>Fitness & Health ML</td>
-      <td>Flutter, Firebase, Python, Flask</td>
+      <td>Flutter, Firebase, Python, Flask, 1D CNN</td>
+    </tr>
+    <tr>
+      <!-- TODO: add the website link on The 5th Real Estate -->
+      <td><b>The 5th Real Estate</b></td>
+      <td>Property Listing & Admin Platform (Web)</td>
+      <td>Flutter Web, Firebase (Auth, Firestore), Dynamic Forms, WhatsApp API</td>
+    </tr>
+    <tr>
+      <!-- TODO: add the website link on Eng. Islam Ahmed Office -->
+      <td><b>Eng. Islam Ahmed Office</b></td>
+      <td>Engineering Services & Training Platform (Web)</td>
+      <td>Flutter Web, Responsive Dark UI, Advanced Filtering</td>
     </tr>
     <tr>
       <td><a href="https://github.com/MohamedRefky/movies_app"><b>Movies App</b></a></td>
@@ -64,17 +88,52 @@
   </tbody>
 </table>
 
+<details>
+<summary><b>📖 Project highlights</b></summary>
+
+<br>
+
+**AROX: On-Demand Services Marketplace**
+- Full-scale ecosystem: 2 cross-platform apps (Client & Craftsman) plus a comprehensive Admin Dashboard.
+- Interactive Google Maps to find nearby craftsmen and available tasks in real time.
+- REST API backend hosted on Hostinger, with Firebase Cloud Messaging for real-time push notifications.
+- Complex business flows: open bidding, real-time chat, subscription/commission billing, and dispute resolution.
+
+**Eduon: Educational Platform (LMS)**
+- Structured learning paths and roadmaps.
+- In-app video streaming via the YouTube API with real-time progress tracking.
+- FCM & WorkManager background notifications with secure Firebase Auth.
+- Community hub integrating 8+ tech organizations (IEEE, GDG).
+
+**Diety App: Fitness & Health**
+- Personalized fitness and diet plans, validated by 50+ users.
+- 1D CNN model built in Python, deployed via a Flask API and integrated with Flutter.
+- Workout, meal planning, progress tracking, and meditation features.
+
+**The 5th Real Estate**
+- Responsive real-estate web platform with a secure admin dashboard (add, edit, hide, delete properties).
+- Firebase real-time sync, dynamic property forms, and bulk JSON upload.
+- Advanced search & filtering with direct WhatsApp booking.
+
+**Eng. Islam Ahmed Office**
+- Responsive dark-themed website for courses, trainee bookings, and client contact channels.
+- Digital engineering library with dynamic filtering and a portfolio section with file downloads.
+
+</details>
+
 ---
 
 <h3><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> About Me</h3>
 
-> 📱 **Flutter Developer** — Crafting seamless, scalable mobile experiences with Flutter & Dart
+> 📱 **Flutter Developer (Freelance)** — Delivering production-ready mobile and web apps end-to-end
 
-> 🔥 **Coding Instructor @ iSchool** — Shaping the next generation of software engineers
+> 🔥 **Coding Instructor @ iSchool** — Taught 400+ students programming fundamentals
 
 > ⚡ **Always Learning** — Clean Architecture, state management, and modern UI patterns
 
-> 🎓 **B.Sc. Computer Science** — Benha University (2020–2024)
+> 🎓 **B.Sc. Computer Science** — Faculty of Computers and AI, Benha University (2020–2024), Graduation Project Grade: A+
+
+> 📚 **Courses** — Flutter Master Course, Clean Architecture & SOLID, Git & GitHub, Dart & OOP (Usama Elgendy) · Flutter & Dart Development Diploma (EraaSoft, 2024)
 
 ---
 
@@ -84,7 +143,7 @@
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/mohamedrefky" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamedrefky/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;
