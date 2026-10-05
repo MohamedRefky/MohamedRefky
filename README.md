@@ -162,5 +162,7 @@
 </p> 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedRefky&theme=tokyo-night&hide_border=true&v=500" width="90%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohamedRefky&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohamedRefky&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohamedRefky&theme=tokyonight" height="180" />
 </p>
